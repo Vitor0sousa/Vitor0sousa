@@ -2,7 +2,7 @@
 # Hello Word
 
 
-Ola, Meu Nome é vitor eu tenho 18 anos e sou formado em técnico em desenvolvimento de sistemas pela escola senai, atualmente estou buscando minha primeira oportunidade de estagio como desenvolvedor ou analista de dados, e tambem estou cursando data science em python e machine learning pela faculdade impacta
+Olá, meu nome é Vitor, tenho 18 anos e sou formado como Técnico em Desenvolvimento de Sistemas pela escola SENAI. Atualmente, estou em busca da minha primeira oportunidade de estágio como Desenvolvedor ou Analista de Dados. Paralelamente, estou cursando Data Science em Python e Machine Learning pela Faculdade Impacta.
 
 
 
