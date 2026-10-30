@@ -80,7 +80,7 @@ Protótipo em **Python** com reconhecimento de voz em português, síntese de fa
 
 <div align="center">
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Vitor0sousa&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br)
+![Estatísticas do GitHub](https://github-readme-stats-extended.vercel.app/api?username=Vitor0sousa&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br)
 
 ![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor0sousa&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
 
