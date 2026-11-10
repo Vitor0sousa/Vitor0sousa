@@ -36,7 +36,7 @@ Desenvolvo aplicações web e integrações que conectam interfaces, bancos de d
 
 Atuação na área de tecnologia, com foco no aprendizado e desenvolvimento de soluções de automação, integração de sistemas e melhoria de processos.
 
-**Tecnologias da área:** Power Automate, SQL Server e ecossistema Microsoft.
+**Tecnologias da área:** C# (.NET), SQL Server, Microsoft Access, Power Apps e Power Automate.
 
 ## 🛠️ Tecnologias e ferramentas
 
