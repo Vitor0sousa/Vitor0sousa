@@ -4,9 +4,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=720&lines=Desenvolvedor+Full+Stack;Angular+%7C+TypeScript+%7C+Node.js;APIs+%7C+Automa%C3%A7%C3%A3o+%7C+Intelig%C3%AAncia+Artificial;Transformando+ideias+em+solu%C3%A7%C3%B5es+reais)](https://git.io/typing-svg)
 
-**Desenvolvedor Full Stack | Integrações de APIs | Inteligência Artificial**
+**Desenvolvedor Full Stack | Estagiário em Desenvolvimento e Automação no Bradesco**
 
-Técnico em Desenvolvimento de Sistemas pelo **SENAI** e estudante de **Sistemas de Informação na Impacta**.
+🎓 Técnico em Desenvolvimento de Sistemas pelo **SENAI** e estudante de **Sistemas de Informação na Impacta**.
+
+💼 Atualmente no **Bradesco**, na área de tecnologia, com foco em desenvolvimento de soluções, automação de processos e integração de sistemas.
 
 Desenvolvo aplicações web e integrações que conectam interfaces, bancos de dados e serviços externos. Gosto de transformar desafios reais em soluções práticas, com foco em evolução contínua e qualidade de código.
 
@@ -24,7 +26,17 @@ Desenvolvo aplicações web e integrações que conectam interfaces, bancos de d
 - 🗃️ Integração de aplicações com **PostgreSQL, Supabase e APIs REST**.
 - 🤖 Interesse e experiência prática em **IA, automação e integração com modelos de linguagem**.
 - 🔐 Trabalho com **OAuth 2.0, webhooks e autenticação** em projetos de integração.
-- 📚 Em constante aprendizado, buscando oportunidades para contribuir em times de tecnologia.
+- 📚 Aprimorando minhas habilidades em desenvolvimento de software, automação e soluções corporativas.
+
+## 💼 Experiência profissional
+
+### Bradesco — Estagiário em Desenvolvimento e Automação
+
+**2026 – Atualmente**
+
+Atuação na área de tecnologia, com foco no aprendizado e desenvolvimento de soluções de automação, integração de sistemas e melhoria de processos.
+
+**Tecnologias da área:** Power Automate, SQL Server e ecossistema Microsoft.
 
 ## 🛠️ Tecnologias e ferramentas
 
